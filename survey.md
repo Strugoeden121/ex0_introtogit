@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Blue
+Favorite food: Steak
+Favorite musician/band: Arctic Monkeys
+Favorite movie: The Dark Knight
+Requested grade in the course: 98
